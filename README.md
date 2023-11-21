@@ -1,6 +1,6 @@
 # Exploration from Prior Data by Labeling Optimistic Reward (ExPLORe)
 
-This is code to accompany the NeurIPS 2023 paper "Accelerating Exploration with Unlabeled Prior Data".
+This is code to accompany the NeurIPS 2023 paper [Accelerating Exploration with Unlabeled Prior Data](https://arxiv.org/abs/2311.05067).
 
 The code is built off from https://github.com/ikostrikov/rlpd/ and the ICVF implementation is from https://github.com/dibyaghosh/icvf_release/.
 
@@ -119,4 +119,14 @@ cd plotting
 python visualize_maze.py
 ```
 
-
+# Bibtex
+```
+@inproceedings{
+li2023accelerating,
+title={Accelerating Exploration with Unlabeled Prior Data},
+author={Qiyang Li and Jason Zhang and Dibya Ghosh and Amy Zhang and Sergey Levine},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+year={2023},
+url={https://openreview.net/forum?id=Itorzn4Kwf}
+}
+```
