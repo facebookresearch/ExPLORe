@@ -160,11 +160,9 @@ cython_debug/
 #.idea/
 
 exp_data_cog/
-data/
 data.zip
 core
 wandb
-# data
 logs
 sbatch
 .DS_Store
